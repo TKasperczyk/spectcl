@@ -46,7 +46,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "child_pty--fixed": "^3.0.10",
+    "child_pty-fixedv12": "^3.0.10",
     "debug": "^2.2.0",
     "extend": "^3.0.0",
     "through": "^2.3.8"
